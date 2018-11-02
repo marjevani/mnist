@@ -1,0 +1,7 @@
+.idea/
+.__pycache__/
+*.pyc
+*.local
+
+!logs_new_model_v04/**
+logs_new_model_v04/*.local
